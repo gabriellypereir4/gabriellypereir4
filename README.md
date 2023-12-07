@@ -8,7 +8,7 @@ I'm a versatile professional working as a UX/UI Designer and Frontend Developer.
 **Technologies:**
 
 - UX/UI Designer with Figma, Photoshop and Illustrator.
-- Frontend Development with HTML, CSS, JavaScript and Vue.js.
+- Frontend Development with HTML, CSS, JavaScript and React.
 
 **Contact Me:**
 
